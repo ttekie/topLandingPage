@@ -1,6 +1,6 @@
 # topLandingPage
 
-* This static web page is built from scrach.
+* This static web page is built from scratch.
 * The technologies used to build this web page are HTML5 and CSS3.
 * The links and button within the page are not functional.
 * It is just a simple web page that is used to practice html and css.
